@@ -33,13 +33,12 @@ Download dataset DRIVE(https://paperswithcode.com/dataset/drive), and the struct
     └─mask
 ```
 
-Training
+# Training
 
 ```
 python train.py --dataset=<your dataset path> --nepoch=50 --batch_size=2
 ```
-
-Performance
+# Performance
 
 <div align=center>
 <img src="https://github.com/Yaepiii/U-Net-Pytorch/assets/75295024/4c894d0e-e38c-4f40-a184-b57aaffe976a" width="480" height="450">
@@ -50,7 +49,7 @@ Test result
 The mean loss=0.41284542381763456
 ```
 
-Predict
+# Predict
 ```
 python predict.py
 ```
