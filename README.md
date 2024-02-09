@@ -55,6 +55,8 @@ Predict
 python predict.py
 ```
 
+The prediction result is generated as 'test_result.png'
+
 <div align=center>
 <img src="https://github.com/Yaepiii/U-Net-Pytorch/assets/75295024/763c0d4f-0b53-4bdb-a1c0-461a3d0e6e03" width="360" height="360"><img src="https://github.com/Yaepiii/U-Net-Pytorch/assets/75295024/00fbdc2a-a474-4d40-a04d-c904104a6da6" width="360" height="360">
 </div>
